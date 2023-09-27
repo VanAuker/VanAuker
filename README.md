@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VanAuker
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Facial Detection
-- 💞️ I’m looking to collaborate on Image Processing  
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning PowerBi and SQL
+- 💞️ I’m looking to collaborate on Data driven projects
 - 📫 How to reach me:
 vanaukermike@gmail.com
 
